@@ -1,0 +1,6 @@
+You climb into the truck. There are no keys, you are going to have to hotwire it.
+You break open the panel under the stearing wheel and find a mess of wires, all 
+different collors: *red*, *blue*, *green*, *yellow*, *orange*.
+You have no idea what you are doing, and decide to guess
+
+(pick two colors of the wires to join together)

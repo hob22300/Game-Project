@@ -1,0 +1,6 @@
+Welcome to prison break!
+This is a text based game.
+Your possible answers will be surounded by stars. 
+*like this*
+please answer in all lower case.
+--------------------------------
